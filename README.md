@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ameer%20Hamza&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ameer%20Hamza&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20and%20Cloud%20Engineer&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <p align="center">
@@ -48,17 +48,17 @@
 
 ## 📊 GitHub Stats
 
+<!-- Cards are generated daily by .github/workflows/profile-summary-cards.yml (no third-party server to go down) -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h222amza&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h222amza&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+  <img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details"/>
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=h222amza&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=h222amza&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
 ## 🐍 Contribution Snake
