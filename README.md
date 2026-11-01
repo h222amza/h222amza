@@ -52,10 +52,12 @@
 <p align="center">
   <img width="98%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details"/>
 </p>
+<!-- Once project repos are public, add:
 <p align="center">
   <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
   <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language"/>
 </p>
+-->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=h222amza&theme=tokyonight&hide_border=true" alt="streak"/>
